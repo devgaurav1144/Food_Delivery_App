@@ -1,0 +1,74 @@
+.input-wappers {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
+
+.label {
+  padding: 12px 12px 12px 0;
+  display: inline-block;
+}
+
+.inputbutton {
+  background-color: #04AA6D;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  float: right;
+}
+
+.container {
+  border-radius: 5px;
+  /* background-color: #f2f2f2; */
+  padding: 20px;
+}
+
+.button-link{
+  border: 0;
+  cursor: pointer;
+  background-color: transparent;
+  color: skyblue;
+  margin: 20px;
+}
+
+
+
+.header {
+  height:150px;
+  overflow: hidden;
+  background-color: #f1f1f1;
+  /* padding: 20px 10px; */
+}
+
+
+.headeralogo {
+  width:150px;
+  height: 150px;
+ 
+}
+
+
+.header-right {
+  float: right;
+  margin-right: 78%;
+  font-size: larger;
+  margin-top: 15px;
+}
+
+.linkspace{
+  padding-left: 10px;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+
